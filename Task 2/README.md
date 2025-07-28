@@ -1,4 +1,5 @@
-# Overview
+# Web Application Vulnerability Scanner
+## Overview
 A Python-based tool that scans web applications for common security flaws such as SQL Injection (SQLi) and Cross-Site Scripting (XSS). Built for security enthusiasts and developers to identify vulnerabilities during testing phases.
 
 ## Features
