@@ -45,16 +45,16 @@ View the results and save reports if needed.
 ## File Structure
 penetration-testing-toolkit/
 │
-├── main.py # Main GUI application
+├──-- main.py # Main GUI application
 
 │
 ├── modules/ # Toolkit modules
 
-│ ├── port_scanner.py # Port scanning module
+│ ├── --port_scanner.py # Port scanning module
 
-│ └── brute_forcer.py # Brute-force attack module
+│ └──-- brute_forcer.py # Brute-force attack module
 
 │
 ├── assets/ # Supporting files and resources
 
-│ └── wordlists/ # Contains password wordlists for brute-forcing
+│ └──-- wordlists # Contains password wordlists for brute-forcing
