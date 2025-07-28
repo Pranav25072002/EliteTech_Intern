@@ -1,8 +1,8 @@
 # Penetration Testing Toolkit
-##Overview
+## Overview
 A Python-based toolkit that provides essential penetration testing utilities, including a port scanner and a brute-forcer. Designed with a colorful Tkinter GUI for easy use by security professionals and learners.
 
-##Features
+## Features
 -Fast and customizable port scanner
 
 -Simple brute-force attack module
@@ -46,10 +46,15 @@ View the results and save reports if needed.
 penetration-testing-toolkit/
 │
 ├── main.py # Main GUI application
+
 │
 ├── modules/ # Toolkit modules
+
 │ ├── port_scanner.py # Port scanning module
+
 │ └── brute_forcer.py # Brute-force attack module
+
 │
 ├── assets/ # Supporting files and resources
+
 │ └── wordlists/ # Contains password wordlists for brute-forcing
