@@ -1,4 +1,5 @@
-# Overview
+# File Integrity Checker
+## Overview
 A lightweight Python tool that monitors files for unauthorized changes by calculating and comparing cryptographic hash values (SHA-256). Designed to help users detect tampering or accidental modifications.
 
 ## Features
