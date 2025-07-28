@@ -42,3 +42,14 @@ Choose the module (Port Scanner or Brute-Forcer).
 Enter the required inputs (target host, ports, or credentials list).
 
 View the results and save reports if needed.
+## File Structure
+penetration-testing-toolkit/
+│
+├── main.py # Main GUI application
+│
+├── modules/ # Toolkit modules
+│ ├── port_scanner.py # Port scanning module
+│ └── brute_forcer.py # Brute-force attack module
+│
+├── assets/ # Supporting files and resources
+│ └── wordlists/ # Contains password wordlists for brute-forcing
